@@ -32,3 +32,32 @@ It highlights:
 🔍 (Optional) Search or filter food items
 
 🖼️ Reusable UI components
+
+## 🛠️ Tech Stack
+
+React.js
+
+JavaScript (ES6+)
+
+CSS3 
+
+Vercel (hosting)
+
+## 📦 Installation Instructions
+
+To run the project locally:
+
+**Clone the repository**
+git clone https://github.com/yourusername/geek-foods.git
+
+**Navigate into the folder**
+cd geek-foods
+
+**Install dependencies**
+npm install
+
+**Start development server**
+npm start
+
+## 📤 Deployment
+
