@@ -64,6 +64,14 @@ npm start
 This project is deployed on Vercel.
 Every push to the main branch triggers an automatic deployment.
 
+## Screenshot
+
+<img width="1363" height="727" alt="image" src="https://github.com/user-attachments/assets/bbdafa92-241b-46c0-9137-8331cdb3e5fe" />
+<img width="1366" height="724" alt="image" src="https://github.com/user-attachments/assets/412499b3-539a-48b6-8599-1301d2e0cdd5" />
+<img width="1360" height="728" alt="image" src="https://github.com/user-attachments/assets/7044dea5-0af2-48ec-aeaf-fe7690265c55" />
+<img width="1349" height="726" alt="image" src="https://github.com/user-attachments/assets/d6a79e52-1a55-439e-8e31-15373fd7e544" />
+
+
 🙋‍♀️ Author
 
 Manaswini Sasmal
