@@ -2,9 +2,13 @@
 
 A clean and modern food-themed web application built with React.js and deployed on Vercel. The site showcases food items in a responsive layout with smooth UI/UX.
 
+---
+
 ## 🚀 Live Demo
 
-👉 [View Live ](https://geek-foods-home.vercel.app/)  
+👉 [View Live ](https://geek-foods-home.vercel.app/) 
+
+---
 
 ## 📄 About The Project
 
@@ -18,6 +22,8 @@ It highlights:
 ⚡ Deployed and optimized for fast performance
 
 🎨 Modern layout with smooth user experience
+
+---
 
 ## ✨ Features
 
@@ -33,6 +39,8 @@ It highlights:
 
 🖼️ Reusable UI components
 
+---
+
 ## 🛠️ Tech Stack
 
 React.js
@@ -42,6 +50,8 @@ JavaScript (ES6+)
 CSS3 
 
 Vercel (hosting)
+
+---
 
 ## 📦 Installation Instructions
 
@@ -59,10 +69,14 @@ npm install
 **Start development server**
 npm start
 
+---
+
 ## 📤 Deployment
 
 This project is deployed on Vercel.
 Every push to the main branch triggers an automatic deployment.
+
+---
 
 ## Screenshot
 
@@ -71,6 +85,7 @@ Every push to the main branch triggers an automatic deployment.
 <img width="1360" height="728" alt="image" src="https://github.com/user-attachments/assets/7044dea5-0af2-48ec-aeaf-fe7690265c55" />
 <img width="1349" height="726" alt="image" src="https://github.com/user-attachments/assets/d6a79e52-1a55-439e-8e31-15373fd7e544" />
 
+---
 
 🙋‍♀️ Author
 
