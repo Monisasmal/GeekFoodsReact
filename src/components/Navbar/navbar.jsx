@@ -1,4 +1,5 @@
-import React from 'react';
+
+// import { Link } from "react-router-dom";
 import './navbar.css';
 
 const Navbar = () => {
@@ -15,12 +16,18 @@ const Navbar = () => {
          </div>
       <nav>
         <ul className="nav-links">
-          <li><a href="#home">Home</a></li>
-          <li><a href="#quote">Quote</a></li>
-          <li><a href="#restaurants">Restaurants</a></li>
-          <li><a href="#foods">Foods</a></li>
-          <li><a href="#contact">Contact</a></li>
-        </ul>
+         <li><a href="/">Home</a></li>
+        <li><a
+      href="https://geek-food-quote-react.vercel.app/"
+      rel="noopener noreferrer"
+    >
+      Quote
+    </a></li>
+        <li><a href="https://geekfood-resturant.vercel.app/">Restaurants</a></li>
+          <li><a href="/foods">Foods</a></li>
+          <li><a href="/contact">Contact</a></li>
+      </ul>
+        
       </nav>
     
       <button className="get-started-btn">Get started</button>
