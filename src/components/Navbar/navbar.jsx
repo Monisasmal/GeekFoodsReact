@@ -19,11 +19,11 @@ const Navbar = () => {
          <li><a href="/">Home</a></li>
         <li><a
       href="https://geek-food-quote-react.vercel.app/"
-      rel="noopener noreferrer"
+      target='_blank'
     >
       Quote
     </a></li>
-        <li><a href="https://geekfood-resturant.vercel.app/">Restaurants</a></li>
+        <li><a href="https://geekfood-resturant.vercel.app/" target='_blank'>Restaurants</a></li>
           <li><a href="/foods">Foods</a></li>
           <li><a href="/contact">Contact</a></li>
       </ul>
